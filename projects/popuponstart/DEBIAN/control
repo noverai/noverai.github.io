@@ -1,9 +1,0 @@
-Architecture: iphoneos-arm
-Author: noverai
-Depiction: https://github.com/username/username.github.io
-Description: pop
-Maintainer: noverai <dj_hanuel@naver.com>
-Name: popuponstart
-Package: com.noverai.popuponstart
-Section: Tweaks
-Version: 1.0
