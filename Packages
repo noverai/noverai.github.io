@@ -1,0 +1,15 @@
+
+Package: com.noverai.popuponstart
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: noverai
+Depends: mobilesubstrate
+Filename: ./popuponstart.deb
+Size: 4936
+MD5sum: 857bf8cdd331c978c4c314fc81216f59
+Homepage: http://naver.com
+Description: popuponstart.
+Name: popuponstart
+Author: noverai
+Depiction: 
