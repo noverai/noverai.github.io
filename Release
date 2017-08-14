@@ -1,11 +1,8 @@
-Origin: noverai's Repo
+Origin: noverai
 Label: noverai
 Suite: stable
 Version: 1.0
-Codename: noverai
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: noverai's Tweaks
-MD5Sum:
- 40e01bf64afea7f409c14835724d577b 320 Packages
- 72530858608515d6571f5e4e7ce0ff29 265 Packages.bz2
+Description: noverai
