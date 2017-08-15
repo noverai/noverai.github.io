@@ -25,3 +25,17 @@ Filename: debs//slider.deb
 Size: 16144bytes
 MD5sum: 8443de250ada9239252afb07ceb64cc8
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
+
+Package: com.noverai.batteryViewer
+Name: batteryViewer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Conflicts: com.noverai.batteryViewer
+Description: Show Battery Level.
+Maintainer: noverai <dj_hanuel@gmail.com>
+Author: noverai <dj_hanuel@gmail.com>
+Section: Utility
+Filename: debs//batteryViewer.deb
+Size: 956816bytes
+MD5sum: abf1256fc00fe018b81ec1fae628f516
+Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
