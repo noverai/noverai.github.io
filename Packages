@@ -39,3 +39,17 @@ Filename: debs//com.noverai.pop_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4874bytes
 MD5sum: 00f9f4cc87ab1de9e57363409cbe6e2d
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
+
+Package: com.noverai.popup
+Name: popup
+Version: 0.0.1
+Architecture: iphoneos-arm
+Conflicts: com.noverai.pop
+Description: popup and say pop
+Maintainer: noverai <dj_hanuel@naver.com>
+Author: noverai <dj_hanuel@naver.com>
+Section: Tweaks
+Filename: debs//pop.deb
+Size: 4922bytes
+MD5sum: 3d89d53d063e42a6a1bd6116a141453a
+Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
