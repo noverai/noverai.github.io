@@ -25,3 +25,13 @@ Filename: debs//com.noverai.battery_0.0.1-1+debug_iphoneos-arm.deb
 Size: 956886bytes
 MD5sum: 5f3bb883ec5da4182e8d9f68e89101dc
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
+
+Package: com.noverai.slider
+Name: slider
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: noverai
+Author: noverai
+Section: Utilities
+Filename: debs//noverai_0.0.1-5+debug_iphoneos-arm.deb
