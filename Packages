@@ -25,3 +25,17 @@ Filename: debs//com.noverai.respringApp_0.0.1-3+debug_iphoneos-arm.deb
 Size: 15490bytes
 MD5sum: 48727d373023cb86d5ca0bea987e69a8
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
+
+Package: com.noverai.pop
+Name: pop
+Version: 0.0.1
+Architecture: iphoneos-arm
+Conflicts: com.noverai.pop
+Description: popup and say pop
+Maintainer: noverai <dj_hanuel@naver.com>
+Author: noverai <dj_hanuel@naver.com>
+Section: Tweaks
+Filename: debs//com.noverai.pop_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4874bytes
+MD5sum: 00f9f4cc87ab1de9e57363409cbe6e2d
+Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
