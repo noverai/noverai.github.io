@@ -20,7 +20,7 @@ Conflicts: com.noverai.batteryViewer
 Description: Show Battery Level.
 Maintainer: noverai <dj_hanuel@gmail.com>
 Author: noverai <dj_hanuel@gmail.com>
-Section: Utility
+Section: Utilities
 Filename: debs//batteryViewer.deb
 Size: 956816bytes
 MD5sum: abf1256fc00fe018b81ec1fae628f516
