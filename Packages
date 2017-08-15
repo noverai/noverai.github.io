@@ -21,7 +21,7 @@ Description: respring application
 Maintainer: noverai <dj_hanuel@naver.com>
 Author: noverai <dj_hanuel@naver.com>
 Section: Utilities
-Filename: debs//com.noverai.respringApp_0.0.1-1+debug_iphoneos-arm.deb
-Size: 15468bytes
-MD5sum: c24c0a8fa4866ed6fc8c36e7e59a586b
+Filename: debs//com.noverai.respringApp_0.0.1-2+debug_iphoneos-arm.deb
+Size: 15466bytes
+MD5sum: f3e20c44f3d5949398b5bb5bfd7690d1
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
