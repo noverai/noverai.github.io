@@ -16,7 +16,7 @@ Package: com.noverai.battery
 Name: battery
 Version: 0.0.1
 Architecture: iphoneos-arm
-Conflicts: noverai
+Conflicts: com.noverai.battery
 Description: Show Battery Level.
 Maintainer: noverai <dj_hanuel@gmail.com>
 Author: noverai <dj_hanuel@gmail.com>
@@ -30,6 +30,7 @@ Package: com.noverai.slider
 Name: slider
 Version: 0.0.1
 Architecture: iphoneos-arm
+Conflicts: com.noverai.slider
 Description: An awesome application!
 Maintainer: noverai
 Author: noverai
