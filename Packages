@@ -20,8 +20,8 @@ Conflicts: com.noverai.respringApp
 Description: respring application
 Maintainer: noverai <dj_hanuel@naver.com>
 Author: noverai <dj_hanuel@naver.com>
-Section: Utilities
-Filename: debs//com.noverai.respringApp_0.0.1-2+debug_iphoneos-arm.deb
-Size: 15466bytes
-MD5sum: f3e20c44f3d5949398b5bb5bfd7690d1
+Section: Tweaks
+Filename: debs//com.noverai.respringApp_0.0.1-3+debug_iphoneos-arm.deb
+Size: 15490bytes
+MD5sum: 48727d373023cb86d5ca0bea987e69a8
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
