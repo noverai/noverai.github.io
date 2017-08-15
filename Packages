@@ -20,7 +20,7 @@ Conflicts: com.noverai.battery
 Description: Show Battery Level.
 Maintainer: noverai <dj_hanuel@gmail.com>
 Author: noverai <dj_hanuel@gmail.com>
-Section: Utilities
+Section: Applications
 Filename: debs//com.noverai.battery_0.0.1-1+debug_iphoneos-arm.deb
 Size: 956886bytes
 MD5sum: 5f3bb883ec5da4182e8d9f68e89101dc
@@ -34,8 +34,22 @@ Conflicts: com.noverai.slider
 Description: An awesome application!
 Maintainer: noverai
 Author: noverai
-Section: Utilities
+Section: Applications
 Filename: debs//noverai_0.0.1-5+debug_iphoneos-arm.deb
 Size: 16144bytes
 MD5sum: 8443de250ada9239252afb07ceb64cc8
+Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
+
+Package: com.noverai.respringApp
+Name: respringApp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Conflicts: com.noverai.slider
+Description: An awesome application!
+Maintainer: noverai
+Author: noverai
+Section: Utilities
+Filename: debs//com.noverai.respringApp_0.0.1-1+debug_iphoneos-arm.deb
+Size: 15468bytes
+MD5sum: c24c0a8fa4866ed6fc8c36e7e59a586b
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
