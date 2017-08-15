@@ -12,16 +12,16 @@ Size: 4932bytes
 MD5sum: 247ea5e11615c9026735ec91b9d41752
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 
-Package: com.noverai.batteryViewer
-Name: batteryViewer
-Version: 1.0.0
+Package: com.noverai.battery
+Name: battery
+Version: 0.0.1
 Architecture: iphoneos-arm
-Conflicts: com.noverai.batteryViewer
+Conflicts: noverai
 Description: Show Battery Level.
 Maintainer: noverai <dj_hanuel@gmail.com>
 Author: noverai <dj_hanuel@gmail.com>
 Section: Utilities
-Filename: debs//batteryViewer.deb
-Size: 956822bytes
-MD5sum: 861037af0aad66fdb5d6f81af545baa4
+Filename: debs//com.noverai.battery_0.0.1-1+debug_iphoneos-arm.deb
+Size: 956886bytes
+MD5sum: 5f3bb883ec5da4182e8d9f68e89101dc
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
